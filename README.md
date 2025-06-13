@@ -74,11 +74,3 @@ pip install -r requirements.txt
 ### PDF Notes
 
 ![image](https://github.com/PramodDutta/LearnPyPlaywright/assets/1409610/784108f8-5984-41e4-a35f-10a4242eace3)
-
-afaFV
-AF
-dag
-aSf
-a
-cZCVVZ
-ZVBCZ
